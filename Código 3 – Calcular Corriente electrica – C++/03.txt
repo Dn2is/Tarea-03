@@ -1,0 +1,36 @@
+#include <stdio.h>
+int main()   //Arranca el programa pd. No se ni madres de este lenguaje y me costó esta vaina 
+{
+       char eleccion;       
+       float voltaje;      
+       float intensidad;   
+       float resistencia;  
+      
+       printf("\n\nElija la forma de la Ley de Ohm que         corresponda:\n");
+       printf("A] Voltaje \n");
+       printf("Su eleccion (A) -->  ");
+       scanf("%c", &eleccion);
+      
+       switch(eleccion)
+       {
+            case 'A':{ //voltaje
+                           printf("\nIntroduzca la intensidad en amperios --> ");
+                           scanf("%f", &intensidad);
+                           printf("\nValor de la resistencia en ohmios -->  ");
+                           scanf("%f", &resistencia);
+                           voltaje = intensidad * resistencia;
+                           printf("\nEl voltaje es %f voltios.", voltaje);
+                     }
+                      break;
+            
+             
+                            
+             default:     printf("\nEleccion incorrecta.\n");
+                           printf("Ejecute el programa seleccionando A");
+            
+       }//fin del switch
+      
+       system(pause);
+       return 0;
+      
+}//fin de main

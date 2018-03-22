@@ -1,0 +1,9 @@
+E:\TODO\HellsyngUnited\Tareas UEES\Ciclo 07-2018\Arquitectura de computadoras\Ayuda a Bulma01\Ayuda a Bulma01\bin\Debug\Ayuda a Bulma01.exe.config
+E:\TODO\HellsyngUnited\Tareas UEES\Ciclo 07-2018\Arquitectura de computadoras\Ayuda a Bulma01\Ayuda a Bulma01\bin\Debug\Ayuda a Bulma01.exe
+E:\TODO\HellsyngUnited\Tareas UEES\Ciclo 07-2018\Arquitectura de computadoras\Ayuda a Bulma01\Ayuda a Bulma01\bin\Debug\Ayuda a Bulma01.pdb
+E:\TODO\HellsyngUnited\Tareas UEES\Ciclo 07-2018\Arquitectura de computadoras\Ayuda a Bulma01\Ayuda a Bulma01\obj\Debug\Ayuda a Bulma01.csprojResolveAssemblyReference.cache
+E:\TODO\HellsyngUnited\Tareas UEES\Ciclo 07-2018\Arquitectura de computadoras\Ayuda a Bulma01\Ayuda a Bulma01\obj\Debug\Ayuda_a_Bulma01.Ejercicio01.resources
+E:\TODO\HellsyngUnited\Tareas UEES\Ciclo 07-2018\Arquitectura de computadoras\Ayuda a Bulma01\Ayuda a Bulma01\obj\Debug\Ayuda_a_Bulma01.Properties.Resources.resources
+E:\TODO\HellsyngUnited\Tareas UEES\Ciclo 07-2018\Arquitectura de computadoras\Ayuda a Bulma01\Ayuda a Bulma01\obj\Debug\Ayuda a Bulma01.csproj.GenerateResource.Cache
+E:\TODO\HellsyngUnited\Tareas UEES\Ciclo 07-2018\Arquitectura de computadoras\Ayuda a Bulma01\Ayuda a Bulma01\obj\Debug\Ayuda a Bulma01.exe
+E:\TODO\HellsyngUnited\Tareas UEES\Ciclo 07-2018\Arquitectura de computadoras\Ayuda a Bulma01\Ayuda a Bulma01\obj\Debug\Ayuda a Bulma01.pdb
